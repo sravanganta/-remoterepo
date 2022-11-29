@@ -1,0 +1,2 @@
+# gitreset
+repo for reset
